@@ -1,0 +1,83 @@
+[
+    {
+        "cod_aluno": "01",
+        "aluno": "Aluno1",
+        "cpf": "111.111.111-01",
+        "rg": "1234567",
+        "tel_aluno": "1111-1111",
+        "tel_responsavel": "2222-2222",
+        "data_nascimento": "2000-01-01"
+    },
+    {
+        "cod_aluno": "02",
+        "aluno": "aluno2",
+        "cpf": "222.222.222-02",
+        "rg": "2345678",
+        "tel_aluno": "2222-2222",
+        "tel_responsavel": "3333-3333",
+        "data_nascimento": "2001-02-02"
+    },
+    {
+        "cod_aluno": "03",
+        "aluno": "aluno3",
+        "cpf": "333.333.333-03",
+        "rg": "3456789",
+        "tel_aluno": "3333-3333",
+        "tel_responsavel": "4444-4444",
+        "data_nascimento": "2002-03-03"
+    },
+    {
+        "cod_aluno": "04",
+        "aluno": "aluno4",
+        "cpf": "444.444.444-04",
+        "rg": "4567890",
+        "tel_aluno": "4444-4444",
+        "tel_responsavel": "5555-5555",
+        "data_nascimento": "2003-04-04"
+    },
+    {
+        "cod_aluno": "05",
+        "aluno": "aluno5",
+        "cpf": "555.555.555-05",
+        "rg": "5678901",
+        "tel_aluno": "5555-5555",
+        "tel_responsavel": "6666-6666",
+        "data_nascimento": "2004-05-05"
+    },
+    {
+        "cod_aluno": "06",
+        "aluno": "aluno6",
+        "cpf": "666.666.666-06",
+        "rg": "6789012",
+        "tel_aluno": "6666-6666",
+        "tel_responsavel": "7777-7777",
+        "data_nascimento": "2005-06-06"
+    },
+    {
+        "cod_aluno": "07",
+        "aluno": "aluno7",
+        "cpf": "777.777.777-07",
+        "rg": "7890123",
+        "tel_aluno": "7777-7777",
+        "tel_responsavel": "8888-8888",
+        "data_nascimento": "2006-07-07"
+    },
+    {
+        "cod_aluno": "08",
+        "aluno": "aluno8",
+        "cpf": "888.888.888-08",
+        "rg": "8901234",
+        "tel_aluno": "8888-8888",
+        "tel_responsavel": "9999-9999",
+        "data_nascimento": "2007-08-08"
+    },
+    {
+        "cod_aluno": "09",
+        "aluno": "aluno9",
+        "cpf": "999.999.999-09",
+        "rg": "9012345",
+        "tel_aluno": "9999-9999",
+        "tel_responsavel": "0000-0000",
+        "data_nascimento": "2008-09-09"
+    }
+]
